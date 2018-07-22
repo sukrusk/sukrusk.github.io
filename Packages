@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: Sukrusk
 Depends: ne bilem ben
 Filename: /denemetweak.deb
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: <section on your repo>
+Size: 129
+MD5sum: 310B31843019CD7316E43CDEA65010F1
+SHA1: 1F229C2028D34DFE06F1826386850D1C3256ECEF
+SHA256: 75D1150FB95EA11D9FCCE794FA32832FFBC34D0BA94D163FE8ADB99901C0C79C
+Section: Tweakler
 Description: <description>
-Author: Yourname <email (put in <>)>
-Name: Tweakname
+Author: Sukrusk
+Name: deneme
