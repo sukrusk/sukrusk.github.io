@@ -1,12 +1,14 @@
-Package: com.sukrusk.denemetweak
+Package: com.sukrusk.com.yourcompany.realcc_0.0.4-1_iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Sukrusk<email@gmail.com)>
 Depends: ne
 Architecture: iphoneos-arm
-Filename: /denemetweak.deb 
+Filename: /com.yourcompany.realcc_0.0.4-1_iphoneos-arm.deb
 Size: 12999
-MD5sum: 310B31843019CD7316E43CDEA65010F1
+MD5sum: E0D2863BC1C178963E73B31D69AF73F2
+SHA1: 7A48FDEE37A2942E0FA33BE9198F8BEB65C31827
+SHA256: F0DB0DE19A3282FB25984906099284C1FB32BEA9186DA1FB947418DFB5027311
 Description: eneme
 Name: deneme 1
 Author: Sukrusk<email@gmail.com)
