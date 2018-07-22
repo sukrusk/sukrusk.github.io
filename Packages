@@ -1,9 +1,9 @@
 Package: com.sukrusk.realcc
-Version: 0.0.1
 Section: Tweaks
 Maintainer: Sukrusk<email@gmail.com)>
-Depends: ne
 Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: ne
 Filename: /realcc.deb
 Size: 12999
 MD5sum: E0D2863BC1C178963E73B31D69AF73F2
