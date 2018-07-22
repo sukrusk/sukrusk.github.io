@@ -1,9 +1,9 @@
-Package: <package>
-Version: <version>
+Package: com.sukrusk.denemetweak
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Yourname <email (put in <>)>
-Depends: <bundleids>
-Filename: debs//<deb>
+Maintainer: Sukrusk
+Depends: ne bilem ben
+Filename: /denemetweak.deb
 Size: <deb in bytes>
 MD5sum: <md5 hash of deb>
 SHA1: <sha1 hash of deb>
